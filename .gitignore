@@ -1,2 +1,8 @@
 .DS_Store
 .~lock.*
+
+# Visual Studio code
+.vscode/*
+!.vscode/cspell.json
+*.code-workspace
+.history
